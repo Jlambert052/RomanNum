@@ -1,0 +1,15 @@
+C:\repos\C#Projects\RomanNumPrac\bin\Debug\net6.0\RomanNumPrac.exe
+C:\repos\C#Projects\RomanNumPrac\bin\Debug\net6.0\RomanNumPrac.deps.json
+C:\repos\C#Projects\RomanNumPrac\bin\Debug\net6.0\RomanNumPrac.runtimeconfig.json
+C:\repos\C#Projects\RomanNumPrac\bin\Debug\net6.0\RomanNumPrac.dll
+C:\repos\C#Projects\RomanNumPrac\bin\Debug\net6.0\RomanNumPrac.pdb
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.csproj.AssemblyReference.cache
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.AssemblyInfoInputs.cache
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.AssemblyInfo.cs
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.csproj.CoreCompileInputs.cache
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.dll
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\refint\RomanNumPrac.dll
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.pdb
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\RomanNumPrac.genruntimeconfig.cache
+C:\repos\C#Projects\RomanNumPrac\obj\Debug\net6.0\ref\RomanNumPrac.dll
